@@ -1,0 +1,33 @@
+Casos de uso App Web Cangrejoleón:
+
+- Usuario profesional ingresa a web por desktop, esta carga rápido y e ingresa a alguna sección. Puede revisar la colección, derechos, y booktrailers.
+- Usuario comprador llega. Ve los 3 nuevos libros de colección y comienza a filtrar por parámetros significativos, web responde actualizando solo la sección.
+- Usuario llega a app web , le llama la atención video y entra a blog.
+- Usuario ya dentro de web escribe buscando un autor.
+- Usuario entra por celular y ve una versión responsiva de web, esencial∞ tiene lo mismo y carga rápido.
+- Usuario llega a web y ve video de blog, ingresa a revisar temática del libro, lee descripción y texto. Luego le interesa y lo compra.
+- Usuario llega a web, luego de leer y no comprar le interesa subscribirse a novedades a su correo así que escribe su correo y envía contacto al apretar un botón, se le indica el uso responsable y privado de sus datos.
+- Usuario llega, lee rápidamente el nav y revisa lo que ofrece. Ingresa a alguna categoría.
+
+Casos de uso de BD cangrejoleon por parte de la app
+
++ App solicita portadas y muestras de libro para rellenar cards como interacción de la app.
++ App solicita ruta de Imagen Hero.
++ App solicita ruta de booktrailer de libro para incluirlo dentro de sección Blog.
++ App solicita ingreso a gestion BD desde panel de control privado.
+
+
+Casos de uso de BD cangrejoleon. Usuario interactúa directamente con BD.
+
++ usuario escribe en buscador, nombre autor, apellido autor, titulo o editorial.
++ usuario puede inscribirse para recibir Newsletter o aviso de actividades de editorial,
+Lanzamientos, noticias, etc.
++ usuario puede inscribirse, agregar carrito y comprar dentro de la web.
++ usuario llega a sección bd de datos y filtra por algún género presente: 
+	Poesía, 
+	narrativa, 
+	experimental. 
+También puede filtrar por fecha de publicación. 
+Luego de escribir ejecuta peticion con botón para solicitar lo que necesita.
+
+
